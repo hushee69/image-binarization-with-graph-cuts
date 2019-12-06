@@ -1,0 +1,10 @@
+https://www.coursera.org/lecture/advanced-algorithms-and-complexity/image-segmentation-refBK
+
+https://www.coursera.org/lecture/image-processing/7-interactive-image-segmentation-duration-21-13-zEn0I
+http://bigwww.epfl.ch/chaudhury/ME_thesis_KunalNC.pdf
+https://www.youtube.com/watch?v=lYQQ88nzxAM
+https://math.stackexchange.com/questions/677743/finding-the-max-flow-of-an-undirected-graph-with-ford-fulkerson
+https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+https://www.slideshare.net/UlaBac/lec10-medical-image-segmentation-as-an-energy-minimization-problem
+mrf - markov random field
+https://www.inf.u-szeged.hu/~kato/teaching/emm/multi-layer-mrf.pdf
