@@ -1,4 +1,4 @@
-# image-binraization-with-graph-cuts
+# image-binarization-with-graph-cuts
 
 ### Separate image into black and white
 
